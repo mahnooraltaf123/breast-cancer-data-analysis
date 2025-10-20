@@ -78,6 +78,15 @@ BREAST-CANCER_DS/
 - **False Positive (FP):** 6 benign tumors incorrectly predicted as malignant  
 - **False Negative (FN):** 4 malignant tumors incorrectly predicted as benign  
 
+## How to Setup the Data Science Environment
+
+Open an Anaconda comand prompt and run:
+```
+conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn 
+```
+
+**Note:** Ensure that you select this environment when running the program.
+
 ## Requirements
 To install the required Python libraries, run:  
 
