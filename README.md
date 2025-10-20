@@ -87,13 +87,6 @@ conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn
 
 **Note:** Ensure that you select this environment when running the program.
 
-## Requirements
-To install the required Python libraries, run:  
-
-```
-pip install -r requirements.txt
-```
-
 ## How to Run
 
 1. Clone this repository:
