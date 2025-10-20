@@ -70,7 +70,7 @@ BREAST-CANCER_DS/
 91%  
 
 ### Confusion Matrix 
-![Confusion Matrix](image.png)
+![Confusion Matrix](confusion-matrix/image.png)
 
 ### Interpretation:  
 - **True Positive (TP):** 61 malignant tumors correctly classified as malignant  
