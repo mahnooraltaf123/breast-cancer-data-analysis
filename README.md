@@ -89,17 +89,17 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```
-git clone https://github.com/mahnooraltaf123/breast-cancer-data-analysis.git
+git clone https://github.com/your-github-username/breast-cancer-data-analysis.git
 ```
 
 2. Navigate to the project folder:
 ```
-cd breast-cancer_ds
+cd breast-cancer-data-analysis
 ```
 
 3. Open the Jupyter notebook:
 ```
-jupyter notebook notebooks/breast-cancer.ipynb
+notebooks/breast-cancer.ipynb
 ```
 
 4. Click ***Run All*** to execute the code.
