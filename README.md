@@ -18,14 +18,17 @@ Each row contains the characteristics of a tumor, including whether it is **mali
 ```
 BREAST-CANCER_DS/
 │
+├── confusion-matrix/
+│   └── image.png
+│
 ├── data/
-│ └── breast-cancer.csv # Dataset
+│   └── breast-cancer.csv  # Dataset
 │
 ├── notebooks/
-│ └── breast-cancer.ipynb # Main analysis notebook
+│   └── breast-cancer.ipynb  # Main analysis notebook
 │
-├── requirements.txt # Required Python libraries
-└── README.md # Project documentation
+├── README.md  # Project documentation
+└── requirements.txt  # Required Python libraries
 ```
 
 ## Methods
